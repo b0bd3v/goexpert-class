@@ -3,6 +3,8 @@ package main
 import "fmt"
 
 // Type assertion
+
+// Para lembrar pode ser o cast
 func main() {
 	var minhaVar interface{} = "Roberto Martins"
 
